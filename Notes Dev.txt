@@ -1,0 +1,57 @@
+	Apprendre les principaux raccourcis clavier !
+		
+	Apprendre le dev (selon Namanh): https://www.youtube.com/watch?v=k9WqpQp8VSU
+
+1. Problem solving
+2. Learn python deeply
+3. Learn scripting
+4. Create a personnal full stack project (or go hackathon or online project : https://devpost.com/ https://mlh.io/)
+	Apprendre à faire ça en javascript (react pour le frontend et express pour le backend) en utilisant typescrypt (très utilisé en industrie)
+	Utiliser MERN pour le stack
+	Rest API Model
+	PostgreSQL pour la bdd
+	Pour le stockage des données backend, utiliser un cloud (AWS, Azure, Google cloud, etc... très utilisé en entreprise)
+#exemple : un premier projet simple, une CRUD App : 3 boutons (+1) (-1) (reset) avec un système de mémoire (en rechargeant la page, le compteur doit reprendre où il en était)
+6. Lire un livre : Elements of programming interviews in python , Adnan Aziz, Tsung-Hsien Lee, Amit Prakash
+7. Leetcode
+8. Learn the terminal
+9. Learn and use VSCode (installer l'extension Prettier
+10. Learn git and become familiar with version control
+
+	Pour apprendre le web dev (ParfaitementWeb):
+
+1. HTML
+2. CSS
+3. Serveurs
+4. Algo
+5. Javascript
+
+	Projets pour apprendre à coder :
+
+1. Le but est ici de développer la syntaxe.
+Coder une application de 5 fonctionnalités ou moins, par exemple une application "to do" list
+(faire plusieurs projets du genre pour bien maitriser les bases : 1 en python, 1 en 'html', 1 en JS, 1 en react par exemple)
+2. Le but est désormais de développer la synergie.
+Coder au moins 3 applications d'au moins 10 fonctionnalités, par exemple un blog.
+Il est possible de reprendre un projet développé pour apprendre la syntaxe, le but étant juste d'y ajouter des fonctionnalités plus complexes.
+(par exemple pour la to do list : des sous-taches, des filtres, des dates d'échéances, en stockant le tout dans une bdd externe)
+3. Finalement, on veut développer des systèmes.
+Le but est ici de réaliser un véritable projet, convaincant quant à vos aptitudes en développement.
+Un exemple de projet pourrait être de développer un clône d'un réseau social.
+Il y aura alors Backend, Frontend, Utilisateurs, Database, API.
+
+	Pour le système embarqué : le C.
+
+	Projet perso :
+
+Créer mon site web. (Application web du point 2. Synergie des projets pour apprendre à coder)
+
+Réaliser un simulateur physique (avec des fonctionnalités en ligne, encore à définir).
+Il sera basé sur de la OOP.
+Il devra être en mesure de fonctionner correctement sur plusieurs supports différents (ordi, tel, tablette, etc..).
+
+Créer un texas holdem ou un jeu de carte à propos de la physique.
+
+	Notes générales :
+
+Stack overflow : incontournable pour apprendre et plus tard en pro.
